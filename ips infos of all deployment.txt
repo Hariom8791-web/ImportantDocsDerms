@@ -1,0 +1,38 @@
+
+username :  ubuntuDSS16
+Every Pc password 123456
+folder Name : RUN -> Code -> client + Server 
+
+basant naagr 
+node ip           gateway ip
+10.5.50.1         10.5.50.15
+-------.2
+-------.3
+-------.4
+    |
+10.5.50.12 
+
+chandigarh 
+Node IP         Gateway IP       Node ID 1001
+10.5.50.2 ----->10.5.50.3
+
+
+hyderbad// Demo Node with Gn Sensor 
+
+Node Ip  ------------------> gateway IP
+10.5.50.1----------------> 10.5.50.2
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
