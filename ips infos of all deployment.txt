@@ -3,6 +3,11 @@ username :  ubuntuDSS16
 Every Pc password 123456
 folder Name : RUN -> Code -> client + Server 
 
+
+Dashboard 
+Uid : 123
+password : Admin@123
+
 basant naagr 
 node ip           gateway ip
 10.5.50.1         10.5.50.15
